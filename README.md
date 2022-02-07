@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+You can call me Leo
+
+I'm passionate about programming and design. I've worked with javascript(ReactJS, Angular and NodeJS) since 2018. 
+
+Some facts about me:
+  * I've worked as a Design Freelancer before programming.
+  * I live in small city called Cosmorama in Brazil.
+  * I love playing the piano.
+
 <!--
 **leogoulartoli/leogoulartoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
