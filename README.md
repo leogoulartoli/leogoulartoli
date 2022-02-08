@@ -10,6 +10,12 @@ Some facts about me:
   * I love playing the piano.
 
 <br>
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leogoulartoli&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogoulartoli&layout=compact&langs_count=7&theme=monokai"/>
+</div>
+
+<br>
 <a href = "mailto:leogoulartoli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/leonardo-goulart-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
