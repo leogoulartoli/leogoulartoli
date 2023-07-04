@@ -5,8 +5,8 @@ You can call me Leo
 I'm passionate about programming and design. I've worked with javascript(ReactJS, Angular and NodeJS) since 2018. 
 
 Some facts about me:
-  * I've worked as a Design Freelancer before programming.
-  * I live in small city called Cosmorama in Brazil.
+  * I've worked on a farm before programming.
+  * I'm a vegetarian since 2011
   * I love playing the piano.
 
 <br>
