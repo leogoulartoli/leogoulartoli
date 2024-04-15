@@ -24,7 +24,11 @@ Some facts about me:
  <img align="center" alt="Leo-TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
  <img align="center" alt="Leo-NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" style="max-width: 100%;">
  <img align="center" alt="Leo-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" style="max-width: 100%;">
- <img align="center" alt="Leo-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
+ <img align="center" alt="Leo-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
+ <img align="center" alt="Leo-NextJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Leo-Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" style="max-width: 100%;">
+
+
 </div>
 
 <hr>
