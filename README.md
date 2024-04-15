@@ -11,7 +11,7 @@ Some facts about me:
 
 <br>
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leogoulartoli&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leogoulartoli&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/> -->
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogoulartoli&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
